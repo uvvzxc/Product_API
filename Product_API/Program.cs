@@ -1,4 +1,4 @@
-using Product_API.Infrastructure.Repositories;
+using Product_API.Repositories;
 
 WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
 

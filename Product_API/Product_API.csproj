@@ -13,8 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Product_API.Application\Product_API.Application.csproj" />
-    <ProjectReference Include="..\Product_API.Infrastructure\Product_API.Infrastructure.csproj" />
+    <ProjectReference Include="..\Product.Domain\Product.Domain.csproj" />
   </ItemGroup>
 
 </Project>
